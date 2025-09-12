@@ -21,7 +21,7 @@
     "@fontsource/ibm-plex-mono": "^5.0.12",
     "@fontsource/inter": "^5.0.17",
     "astro": "^4.9.1",
-    "lucide-react": "^0.379.0",
+    "lucide-react": "^0.541.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "sharp": "^0.32.5",

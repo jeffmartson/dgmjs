@@ -20,7 +20,7 @@
     "@dgmjs/react": "*",
     "@fontsource/ibm-plex-mono": "^5.0.12",
     "@fontsource/inter": "^5.0.17",
-    "astro": "^4.9.1",
+    "astro": "^5.13.10",
     "lucide-react": "^0.379.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
